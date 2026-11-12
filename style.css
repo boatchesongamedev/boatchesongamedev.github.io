@@ -13,8 +13,10 @@ h1 {
 
 a {
   border-style: double;
+  padding-left: 50px;
 }
 
 section class="about" {
   border-style: double;
+  padding-left: 50px;
 }
