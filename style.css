@@ -5,7 +5,7 @@ body {
   text-align: left;
   border-style: double;
   border-width: 100px;
-  font-family: aptos-slab, sans-serif;
+  font-family: aptos-slab;
 }
 
 a {
