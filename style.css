@@ -11,6 +11,10 @@ h1 {
   padding-left: 50px
 }
 
+nav {
+  padding-left: 50px;
+}
+
 a {
   border-style: double;
   padding-left: 50px;
