@@ -4,7 +4,8 @@ body {
   font-size: 50px;
   text-align: left;
   border-style: double;
-  border-width: 150px;
+  border-width: 100px;
+  font-family: aptos-slab, sans-serif;
 }
 
 a {
