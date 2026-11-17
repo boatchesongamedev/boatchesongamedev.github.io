@@ -21,7 +21,6 @@ body {
 }
 
 .navbar li{
-  float: left;
   text-align: center;
 }
 
@@ -29,5 +28,5 @@ body {
 
 .about {
     border-style: double;
-    border-width: 50px;
+    border-width: 25px;
 }
