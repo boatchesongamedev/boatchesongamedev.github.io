@@ -29,7 +29,10 @@ h1 {
 .navbar li{
   float: left;
 }
-  
+
+.navbar about-img{
+  padding-left: 50px;
+}
 
 
 
