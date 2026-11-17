@@ -17,8 +17,8 @@ body {
 }
 
 .navbar a{
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 92px;
+  padding-bottom: 92px;
   text-decoration: none;
   font-size: 150px;
   display: block;
@@ -32,7 +32,7 @@ h2 {
 }
 
 .about {
-  width: 6500px;
+  width: 6450px;
   position: fixed;
   z-index: 1;
   top: 0;
