@@ -28,24 +28,24 @@ body {
 h2 {
   text-decoration-line: underline;
   text-decoration-style: solid;
-  font-size: 200px;
+  font-size: 300px;
   padding-left: 20px;
 }
 
 .about {
   width: 6300px;
-  height: 4000px;
+  height: 3000px;
   position: fixed;
   z-index: 1;
   top: 0;
   margin-top: 1px;
   margin-left: 1015px;
   border-style: solid;
-  font-size: 100px;
+  font-size: 150px;
 }
 
 .about p{
   padding-left: 20px;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
