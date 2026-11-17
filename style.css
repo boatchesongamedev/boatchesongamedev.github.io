@@ -34,6 +34,7 @@ h2 {
 
 .about {
   width: 6300px;
+  height: 4000px;
   position: fixed;
   z-index: 1;
   top: 0;
@@ -41,5 +42,4 @@ h2 {
   margin-left: 1015px;
   border-style: solid;
   font-size: 100px;
-  padding-left: 20px;
 }
