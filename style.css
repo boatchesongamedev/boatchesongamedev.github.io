@@ -13,7 +13,7 @@ body {
   left: 0;
   overflow-x: hidden;
   padding-top: 500px;
-  border-style: double;
+  border-style: solid;
 }
 
 .navbar a{
