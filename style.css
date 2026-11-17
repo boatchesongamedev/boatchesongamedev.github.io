@@ -29,4 +29,5 @@ body {
 
 .about {
     border-style: double;
+    border-width: 50px;
 }
