@@ -16,11 +16,17 @@ h1 {
   padding-left: 50px;
 }
 
-a {
+.navbar a{
   border-style: double;
   padding-left: 50px;
   padding-right: 50px;
+  text-decorations: none;
+  display: block;
+  text-align: center;
 }
+  
+
+
 
 section class="about" {
   border-style: double;
