@@ -30,7 +30,5 @@ h1 {
 
 
 
-section class="about" {
-  border-style: double;
-  padding-left: 50px;
+.about p{
 }
