@@ -8,7 +8,6 @@ body {
 .navbar ul{
   list-style-type: none;
   background-colour: #325239;
-  position: relative;
   overflow: hidden;
 }
 
