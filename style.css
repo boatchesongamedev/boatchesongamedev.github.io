@@ -9,6 +9,9 @@ body {
   list-style-type: none;
   background-colour: #325239;
   overflow: hidden;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
 }
 
 .navbar a{
@@ -19,9 +22,6 @@ body {
   display: block;
   text-align: center;
   float: none;
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%);
 }
 
 .navbar li{
