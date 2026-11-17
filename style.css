@@ -28,7 +28,7 @@ body {
 h2 {
   text-decoration-line: underline;
   text-decoration-style: solid;
-  font-size: 75
+  font-size: 200px;
 }
 
 .about {
@@ -39,4 +39,5 @@ h2 {
   margin-top: 1px;
   margin-left: 1015px;
   border-style: solid;
+  font-size: 100px;
 }
