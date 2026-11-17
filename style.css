@@ -5,26 +5,18 @@ body {
   text-align: center;
 }
 
-.navbar ul{
-  list-style-type: none;
-  background-colour: #325239;
-  overflow: hidden;
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%);
+.navbar {
+  width: 100%;
+  overflow: auto;
 }
 
 .navbar a{
   border-style: double;
-  padding-left: 50px;
-  padding-right: 50px;
-  text-decorations: none;
-  display: block;
-  text-align: center;
-  float: none;
-}
-
-.navbar li{
+  float: left;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 17px;
+  width: 14.2857142857%;
   text-align: center;
 }
 
