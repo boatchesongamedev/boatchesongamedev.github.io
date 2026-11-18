@@ -166,6 +166,10 @@ h2 {
   padding-right: 100px;
 }
 
+.getintouch a{
+  text-decoration: none;
+}
+
 @mediacreen and (maxheight: 450px) {
   .navbar {
     padding-top: 1010px;
