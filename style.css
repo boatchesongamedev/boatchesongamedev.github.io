@@ -94,6 +94,10 @@ h2 {
   padding-right: 100px;
 }
 
+.gallery-link a{
+  padding-left: 100px;
+}
+
 .games {
   width: 6425px;
   height: 3500px;
