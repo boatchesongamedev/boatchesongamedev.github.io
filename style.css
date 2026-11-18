@@ -50,3 +50,22 @@ h2 {
   padding-bottom: 50px;
   padding-right: 100px;
 }
+
+.showreel {
+  width: 6300px;
+  height: 3500px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  margin-top: 1px;
+  margin-left: 1015px;
+  border-style: solid;
+  font-size: 150px;
+}
+
+.showreel p{
+  padding-left: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-right: 100px;
+}
