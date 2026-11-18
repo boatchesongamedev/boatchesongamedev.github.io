@@ -33,7 +33,7 @@ h2 {
 }
 
 .about {
-  width: 6400px;
+  width: 6450px;
   height: 3500px;
   position: fixed;
   z-index: 1;
@@ -52,7 +52,7 @@ h2 {
 }
 
 .showreel {
-  width: 6400px;
+  width: 6450px;
   height: 3500px;
   position: fixed;
   z-index: 1;
@@ -71,7 +71,7 @@ h2 {
 }
 
 .gallery {
-  width: 6400px;
+  width: 6450px;
   height: 3500px;
   position: fixed;
   z-index: 1;
@@ -83,6 +83,44 @@ h2 {
 }
 
 .gallery p{
+  padding-left: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-right: 100px;
+}
+
+.games {
+  width: 6450px;
+  height: 3500px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  margin-top: 1px;
+  margin-left: 1015px;
+  border-style: solid;
+  font-size: 150px;
+}
+
+.games p{
+  padding-left: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-right: 100px;
+}
+
+.tools {
+  width: 6450px;
+  height: 3500px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  margin-top: 1px;
+  margin-left: 1015px;
+  border-style: solid;
+  font-size: 150px;
+}
+
+.tools p{
   padding-left: 100px;
   padding-top: 50px;
   padding-bottom: 50px;
